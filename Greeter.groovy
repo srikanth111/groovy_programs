@@ -1,3 +1,4 @@
+// interface concept in groovy
 import org.codehaus.groovy.runtime.InvokerHelper
 
 interface Greeter {
