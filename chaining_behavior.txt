@@ -1,0 +1,8 @@
+Chaining behaviour in groovy:
+
+Groovy Programming language supports stackable traits.
+Stackable defines as the certain files are arranged or stored in orderly. It can also called as collecting files in orderly.
+
+chaining behaviour allows to delegate the methods from one trair to another trait if current trait is not working to handle the messages.
+
+
