@@ -1,0 +1,8 @@
+closure:
+
+A closure is a anonymous block of code that can take parameters and return a value and also it can be assigned to variables....
+closure can aslo contain free variables which are declared outside of its surrounding scope.
+
+in closure we can declare variables and assign values to those variables. we can also declare the type of variable in closure. syntax: def isOdd = {int i->i%2 == 1}
+
+
