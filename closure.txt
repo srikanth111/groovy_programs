@@ -5,4 +5,8 @@ closure can aslo contain free variables which are declared outside of its surrou
 
 in closure we can declare variables and assign values to those variables. we can also declare the type of variable in closure. syntax: def isOdd = {int i->i%2 == 1}
 
+parameters:
+normal parmaters:parameters of closure follows the normal parameter declaration in methods.
+
+
 
